@@ -1,0 +1,3774 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 171,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.98880315,
+                    42.84567067
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 1,
+                "Id": 0,
+                "Name": "Vjetrenica",
+                "Long__m_": "6400",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.46182704,
+                    42.83318642
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 2,
+                "Id": 0,
+                "Name": "Oko Miruie - potpoljena",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.58924729,
+                    43.88516703
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 3,
+                "Id": 0,
+                "Name": "Orlovaca Paljanska Miljacka",
+                "Long__m_": "6700",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.50815397,
+                    44.09425387
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 4,
+                "Id": 0,
+                "Name": "Bijambarska pecina",
+                "Long__m_": "420",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.38543105,
+                    42.96575235
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 5,
+                "Id": 0,
+                "Name": "Grnkovaca",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4184587,
+                    42.95065701
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 6,
+                "Id": 0,
+                "Name": "Pecinovac",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35539641,
+                    42.96219278
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 7,
+                "Id": 0,
+                "Name": "Botija pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.36160609,
+                    42.9589712
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 8,
+                "Id": 0,
+                "Name": "Vranjaca",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35641415,
+                    42.95212576
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 9,
+                "Id": 0,
+                "Name": "Planjska pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35704933,
+                    42.95917264
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 10,
+                "Id": 0,
+                "Name": "Lukovica",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.34785748,
+                    42.95741274
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 11,
+                "Id": 0,
+                "Name": "Plane",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35269553,
+                    42.9563629
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 12,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19814067,
+                    42.67684153
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 13,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15758166,
+                    42.69277077
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 14,
+                "Id": 0,
+                "Name": "Zaplanik",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.11869932,
+                    42.70230666
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 15,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12699141,
+                    42.70195479
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 16,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.13629168,
+                    42.7019441
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 17,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.18",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12768487,
+                    42.71224751
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 18,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.19",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08906846,
+                    42.73180091
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 19,
+                "Id": 0,
+                "Name": "Polegu/a",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.20",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.09343699,
+                    42.7319926
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 20,
+                "Id": 0,
+                "Name": "Babja Pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.21",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.09714735,
+                    42.7345267
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 21,
+                "Id": 0,
+                "Name": "Reznica",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.22",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.09906907,
+                    42.73594003
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 22,
+                "Id": 0,
+                "Name": "Poganjaca",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.23",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.14157004,
+                    42.73901807
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 23,
+                "Id": 0,
+                "Name": "Nevada",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.83522979,
+                    43.09478524
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 24,
+                "Id": 0,
+                "Name": "Tasina Pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.25",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7659282,
+                    43.10033026
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 25,
+                "Id": 0,
+                "Name": "Grkova Pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.77949397,
+                    43.10719269
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 26,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.27",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.88346068,
+                    43.08270245
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 27,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.28",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.94287987,
+                    43.07353258
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 28,
+                "Id": 0,
+                "Name": "Gradina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.29",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.48942227,
+                    43.04178862
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 29,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.30",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.49489908,
+                    43.05594417
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 30,
+                "Id": 0,
+                "Name": "hatlo",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.31",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4338088,
+                    43.05984771
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 31,
+                "Id": 0,
+                "Name": "Gusarica",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.32",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.48922052,
+                    43.09393222
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 32,
+                "Id": 0,
+                "Name": "Vilina pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.33",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.42820994,
+                    43.09429042
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 33,
+                "Id": 0,
+                "Name": "Orlovic",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.34",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5146819,
+                    43.06081088
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 34,
+                "Id": 0,
+                "Name": "Vranjaca",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.35",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.51630138,
+                    43.05989454
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 35,
+                "Id": 0,
+                "Name": "V. piljak",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.36",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.51330951,
+                    43.06348737
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 36,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.37",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.51446893,
+                    43.06314127
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 37,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.38",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.51507787,
+                    43.06183178
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 38,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.39",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.49922618,
+                    43.05363769
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 39,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.40",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53157536,
+                    43.03586622
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 40,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.41",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.51064323,
+                    42.97146332
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 41,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.42",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.37336249,
+                    43.27580498
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 42,
+                "Id": 0,
+                "Name": "hiljevina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.43",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.31828171,
+                    43.27600037
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 43,
+                "Id": 0,
+                "Name": "Jelinova Pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.44",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.35675996,
+                    43.26923242
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 44,
+                "Id": 0,
+                "Name": "M. Kru/evica",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.45",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.36413255,
+                    43.26368099
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 45,
+                "Id": 0,
+                "Name": "Planikovac",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.46",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39019933,
+                    43.27792826
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 46,
+                "Id": 0,
+                "Name": "Mickova pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.47",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39237771,
+                    43.27685102
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 47,
+                "Id": 0,
+                "Name": "Vodicka pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.48",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3284572,
+                    43.3364291
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 48,
+                "Id": 0,
+                "Name": "Vrelo Tihaljine 1",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.49",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.32805089,
+                    43.33757607
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 49,
+                "Id": 0,
+                "Name": "Vrelo Tihaljine 2",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.50",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60784478,
+                    43.1779424
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 50,
+                "Id": 0,
+                "Name": "Vrelo Studenci",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.51",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.59082593,
+                    44.22149335
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 51,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.52",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33019,
+                    44.39337703
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 52,
+                "Id": 0,
+                "Name": "Basta/ko vrelo",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.53",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03835584,
+                    43.60713487
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 53,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.54",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17269628,
+                    43.637886
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 54,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.55",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18241468,
+                    43.66566747
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 55,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.56",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.15088275,
+                    43.6802253
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 56,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.57",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19278495,
+                    43.64548566
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 57,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.58",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18841302,
+                    43.63973841
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 58,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.59",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.33115761,
+                    43.69794976
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 59,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.60",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12806006,
+                    43.6836572
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 60,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.61",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.08795264,
+                    43.65227758
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 61,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.62",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19901428,
+                    43.64031025
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 62,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.63",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.64885826,
+                    43.67153147
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 63,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.64",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.61835475,
+                    43.64918985
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 64,
+                "Id": 0,
+                "Name": "Vilina pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.65",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.67529811,
+                    43.62587915
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 65,
+                "Id": 0,
+                "Name": "Cavina pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.66",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5916442,
+                    43.57528215
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 66,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.67",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.58472681,
+                    43.56208469
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 67,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.68",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6911573,
+                    43.56888374
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 68,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.69",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79371046,
+                    43.56687793
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 69,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.70",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79273957,
+                    43.55096966
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 70,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.71",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79275787,
+                    43.54562609
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 71,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.72",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79875394,
+                    43.540666
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 72,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.73",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79397071,
+                    43.54065748
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 73,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.74",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79861455,
+                    43.53122123
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 74,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.75",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79776925,
+                    43.52861006
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 75,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.76",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8073532,
+                    43.52253736
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 76,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.77",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.80599414,
+                    43.5202982
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 77,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.78",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79355064,
+                    43.5135658
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 78,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.79",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.77849208,
+                    43.52236082
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 79,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.80",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.76811651,
+                    43.51140444
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 80,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.81",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.88472164,
+                    43.48987547
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 81,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.82",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15835036,
+                    43.34351351
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 82,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.83",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.29662787,
+                    43.25276611
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 83,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.84",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.25927624,
+                    43.31880574
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 84,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.85",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.44296817,
+                    43.20672496
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 85,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.86",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.67451628,
+                    43.2922558
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 86,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.87",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.54201037,
+                    43.18674566
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 87,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.88",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.54628178,
+                    43.18324558
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 88,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.89",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.55940069,
+                    43.15683531
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 89,
+                "Id": 0,
+                "Name": "Srnj",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.90",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.58117884,
+                    43.16202928
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 90,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.91",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5788157,
+                    43.17546326
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 91,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.92",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5927223,
+                    43.18533425
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 92,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.93",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.64001997,
+                    43.20413526
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 93,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.94",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.43445561,
+                    43.22017951
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 94,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.95",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.44982842,
+                    43.18465968
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 95,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.96",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35206645,
+                    43.1561698
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 96,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.97",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.51345407,
+                    43.10286523
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 97,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.98",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.36769018,
+                    43.00599056
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 98,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.99",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.32252701,
+                    43.01176298
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 99,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.32266335,
+                    43.0097119
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 100,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.28457919,
+                    42.97948417
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 101,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.32250533,
+                    43.03572371
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 102,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.40983872,
+                    42.9818025
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 103,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.104",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.42611317,
+                    43.03937829
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 104,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.34656806,
+                    42.97143424
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 105,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.106",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.37282123,
+                    42.91339202
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 106,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.22161746,
+                    42.96677948
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 107,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.108",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.25842959,
+                    42.91316773
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 108,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.26237507,
+                    42.90862556
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 109,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.28970265,
+                    42.9122294
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 110,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.27412249,
+                    42.87567833
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 111,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.31226835,
+                    42.90277989
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 112,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.30769988,
+                    42.89933839
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 113,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.32642974,
+                    42.85978279
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 114,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.30615017,
+                    42.8531469
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 115,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.30377972,
+                    42.84840411
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 116,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.30140887,
+                    42.87366694
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 117,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18096144,
+                    42.68384597
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 118,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.94360054,
+                    42.91150272
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 119,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87205583,
+                    42.92806681
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 120,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.84429163,
+                    42.92975934
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 121,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.89176882,
+                    42.91017026
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 122,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.10940877,
+                    43.1309096
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 123,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.124",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.11263965,
+                    43.12893232
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 124,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12946298,
+                    43.11825415
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 125,
+                "Id": 0,
+                "Name": "Zmajevka",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1317553,
+                    43.11904119
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 126,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17719868,
+                    43.13092341
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 127,
+                "Id": 0,
+                "Name": "Mokri Do",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1489517,
+                    43.15356754
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 128,
+                "Id": 0,
+                "Name": "Rikaca",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.21119024,
+                    43.10024452
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 129,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.21502241,
+                    43.10041286
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 130,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2382036,
+                    43.08808334
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 131,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.31934277,
+                    43.08867215
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 132,
+                "Id": 0,
+                "Name": "Lalo:eva pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2539306,
+                    43.11312886
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 133,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20146013,
+                    43.11072415
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 134,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.27626452,
+                    43.09460086
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 135,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.136",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.25183437,
+                    43.09545559
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 136,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.23264837,
+                    43.08397703
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 137,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.24288689,
+                    43.0760862
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 138,
+                "Id": 0,
+                "Name": "Sutica",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.26010636,
+                    43.10102559
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 139,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.34438277,
+                    43.14174715
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 140,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.14905259,
+                    43.22809115
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 141,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.28480232,
+                    43.19144543
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 142,
+                "Id": 0,
+                "Name": "Kovaceva pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.31561118,
+                    43.18914456
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 143,
+                "Id": 0,
+                "Name": "Jotorova pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.83647241,
+                    43.22073923
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 144,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.145",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.55753352,
+                    43.14643762
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 145,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.56327813,
+                    43.14133952
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 146,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6081107,
+                    43.18194068
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 147,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.61268915,
+                    43.18049338
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 148,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.63331328,
+                    43.17000755
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 149,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66481601,
+                    43.12653043
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 150,
+                "Id": 0,
+                "Name": "Brtljanuia",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.151",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.23479212,
+                    43.64241306
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 151,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.32044261,
+                    43.6129673
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 152,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.334101,
+                    43.61325664
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 153,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.44383629,
+                    43.6433078
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 154,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.45187319,
+                    43.64554079
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 155,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9325538,
+                    43.71114315
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 156,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9503915,
+                    43.67211572
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 157,
+                "Id": 0,
+                "Name": "Petrunova pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69847268,
+                    43.88981659
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 158,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7119409,
+                    43.88458274
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 159,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.160",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.72170537,
+                    43.88432092
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 160,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.748527,
+                    43.82982414
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 161,
+                "Id": 0,
+                "Name": "Maracna pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.58757436,
+                    44.0502768
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 162,
+                "Id": 0,
+                "Name": "Jakovljeva pecina",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.60281222,
+                    44.00458747
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 163,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63259583,
+                    43.98087873
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 164,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.48594204,
+                    44.28875378
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 165,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30623181,
+                    44.31594614
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 166,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28811649,
+                    44.29840346
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 167,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2925217,
+                    44.29809795
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 168,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.169",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.47847832,
+                    44.31744227
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 169,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.43209729,
+                    42.85891858
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 170,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bosnia_and_herzegovina_caves.171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8535105,
+                    43.32270137
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "OBJECTID": 171,
+                "Id": 0,
+                "Name": "",
+                "Long__m_": "",
+                "L_of_Conf": "A",
+                "Source": "Geological Survey of Republic of Srpska",
+                "Processed": "DIKTAS",
+                "www": "http://diktas.iwlearn.org/"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

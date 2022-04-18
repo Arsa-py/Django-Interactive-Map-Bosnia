@@ -1,0 +1,88 @@
+{% load static %}
+ 
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+ 
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+ 
+  <title>GeoDjango</title>
+ 
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="{% static '/bootstrap/css/bootstrap.min.css' %}">
+ 
+</head>
+ 
+<body>
+ 
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+    <div class="container">
+      <a class="navbar-brand" href=""{% url 'home' %}"">Home</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="navbar-brand" href="{% url 'gismap' %}">GISMap</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+ 
+  <!-- Page Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h1 class="mt-5">GeoDjango App developed by Arsenije Vujasinovic</h1>
+          <img src="{% static 'img/geodjango.jpeg' %}" align="center" width="1200" height="555"/><br>
+          {% comment %} <img src="{% static 'img/geodjango2.jpeg' %}" align="right" width="450" height="900"/><br> {% endcomment %}
+          <p class="lead" style="text-align:left">Za potrebe izrade ovog projekta korištene su sljedeće tehnologije: GeoDjango, Leaflet, Folium, HTML. <br><br>
+            <b>GeoDjango</b> je modul <i>Django web framework-a</i>, koji upravo Django pretvara u geografski web framework svjetske klase. GeoDjango čini stvaranje geografskih web aplikacija veoma jednostavnim, poput servisa zasnovanih na lokaciji.<br>
+            Njegove karakteristike uključuju:<br>
+            - Polja Django modela za OGC (<i>Open Geospatial Consortium</i>) geometrije i rasterske podatke,<br>
+            - Proširenja za Django ORM (<i>Object-Relational Mapping</i>) za upite i manipulisanje prostornim podacima,<br>
+            - Python interfejsi visokog nivoa za GIS geometriju i rasterske operacije i manipulaciju podacima različitih formata,<br>
+            - Uređivanje geometrijskih polja preko admina.<br>
+            Više o GeoDjango-u na <a href="https://docs.djangoproject.com/en/4.0/ref/contrib/gis/" target="_blank">sajtu zvanične Django dokumentacije</a>.
+            <br><br>
+            <b>Leaflet</b> vodeća open-source <i>JavaScript</i> biblioteka za interaktivne mape prilagođene i desktop i mobilnim uređajima. Težine samo 39 KB JS-a, ima sve karakteristike mapiranja koje su programerima potrebne.
+            Leaflet je dizajniran imajući na umu jednostavnost, performanse i upotrebljivost. Efikasno radi na skoro svim desktop i mobilnim platformama. Može se proširiti sa puno dodataka, ima prelijep, jednostavan za korišćenje i dobro dokumentovan API, te jednostavan i čitljiv izvorni kod.<br>
+            Više o Leaflet-u na <a href="https://leafletjs.com/SlavaUkraini/" target="_blank">linku</a>.
+            <br><br>
+            <b>Folium</b> olakšava vizuelizaciju podataka, kojima se manipuliše u Python-u, na interaktivnoj Leaflet mapi. Omogućava i vezivanje podataka za mapu kao horoplet (tematska karta u bojama) vizuelizacije, kao i prenošenje bogatih vektorskih/rasterskih/HTML vizuelizacija u obliku markera na mapi.
+            Biblioteka ima veliki broj ugrađenih "tajlsetova" iz OpenStreetMap-a, Mapbox-a i Stamen-a i podržava skupove "tajlsetova" sa Mapbox ili Cloudmade API ključeva.
+            Folimu podržava i slike, video, GeoJSON i TopoJSON slojeve.<br> Više o Folium-u na <a href="https://python-visualization.github.io/folium/" target="_blank">linku</a>
+            <br><br>
+            <b>PostGIS</b> je proširenje prostorne baze podataka za <i>PostgreSQL</i> objektno-relacionu bazu podataka. Dodaje podršku za geografske objekte koji omogućavaju pokretanje upita o lokaciji u SQL-u.<br>
+            Više o PostGIS-u na <a href="https://postgis.net/" target="_blank">linku</a>.
+            <br><br>
+            Korisni linkovi:
+            <ul style="text-align:left">
+              <li><a href="https://www.python.org/" target="_blank">Python</a></li>
+              <li><a href="https://geojson.org/" target="_blank">GeoJSON</a></li>
+              <li><a href="https://github.com/topojson/topojson" target="_blank">TopoJSON</a></li>
+              <li><a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a></li>
+            </ul>
+          </p>
+          <ul class="list-unstyled">
+            <li>Developed by Arsenije Vujasinovic &copy;</li>
+            <li>2022</li>
+          </ul>
+      </div>
+    </div>
+  </div>
+ 
+  <!-- Bootstrap core JavaScript -->
+  <script src="{% static '/jquery/jquery.slim.min.js' %}"></script>
+  <script src="{% static '/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+ 
+</body>
+ 
+</html>

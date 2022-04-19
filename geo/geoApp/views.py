@@ -1,4 +1,3 @@
-from unicodedata import name
 from django.shortcuts import render, redirect
 import os
 import folium
